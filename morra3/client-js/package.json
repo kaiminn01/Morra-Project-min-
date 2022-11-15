@@ -1,0 +1,27 @@
+{
+  "name": "@reach-sh/morra3",
+  "version": "1.0.0",
+  "description": "Morra",
+  "main": "index.mjs",
+  "dependencies": {
+    "@reach-sh/rpc-client": "0.0.2-rc.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algorand-devrel/Reach-Morra-Game.git"
+  },
+  "keywords": [
+    "morra",
+    "reach"
+  ],
+  "author": "Russ Fustino",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/algorand-devrel/Reach-Morra-Game/issues"
+  },
+  "homepage": "https://github.com/algorand-devrel/Reach-Morra-Game#readme"
+}
